@@ -718,7 +718,6 @@ Attempts Remaining :"</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
     <string name="lockscreen_plugged_in">Charging, %d%%</string>
     <string name="lockscreen_charged">Charged</string>
-    <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Connect your charger.</string>
     <string name="lockscreen_missing_sim_message_short">No SIM card</string>
     <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="color_mode_labels">
-        <item>Black &amp;amp; White</item>
-        <item>Color</item>
+        <item>أبيض وأسود</item>
+        <item>ملون</item>
     </string-array>
     <string-array name="orientation_labels">
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>رأسي</item>
+        <item>أفقي</item>
     </string-array>
     <string-array name="page_options_labels">
-        <item>All</item>
-        <item>Range</item>
+        <item>الكل</item>
+        <item>محدد</item>
     </string-array>
 </resources>

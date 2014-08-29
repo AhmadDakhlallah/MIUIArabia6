@@ -1,37 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search_in_web">Search internet</string>
-    <string name="search_in_app_store">Search app market</string>
-    <string name="send_secret_code">Send secret code</string>
-    <string name="app_name">Search</string>
-    <string name="search_widget">Search</string>
-    <string name="remove_from_history">Do you want to remove this item from the search history?</string>
-    <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
-    <string name="corpus_selection_heading">Search</string>
-    <string name="corpus_label_global">All</string>
-    <string name="corpus_label_web">Web</string>
-    <string name="corpus_description_web">Bookmarks</string>
-    <string name="corpus_label_apps">Apps</string>
-    <string name="corpus_description_apps">Installed applications</string>
-    <string name="corpus_hint_apps">Search apps</string>
-    <string name="menu_settings">Search settings</string>
-    <string name="search_settings">Search settings</string>
-    <string name="google_settings_category_title">Google Search</string>
-    <string name="device_settings_category_title">Clear shortcuts</string>
-    <string name="system_search_category_title">Phone</string>
-    <string name="search_sources">Searchable items</string>
-    <string name="search_sources_summary">Choose what to search on the phone</string>
-    <string name="clear_shortcuts">Clear shortcuts</string>
-    <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
-    <string name="clear_shortcuts_prompt">"Do you want to clear all shortcuts to recently chosen search suggestions?
-
-To clear your Browser history, use the Browser's settings."</string>
-    <string name="clear_shortcuts_agree">Clear shortcuts</string>
-    <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
-    <string name="menu_help">Help</string>
-    <string name="google_search_label">Google</string>
-    <string name="google_app_label">Google Search</string>
-    <string name="google_search_hint">Google Search</string>
-    <string name="google_search_description">Google Search suggestions</string>
-    <string name="voice_search_hint_title">Try saying:</string>
+  <string name="search_in_web">بحث الإنترنت</string>
+  <string name="search_in_app_store">بحث متجر التطبيقات</string>
+  <string name="send_secret_code">إرسال الرمز السري</string>
+  <string name="app_name">بحث</string>
+  <string name="search_widget">بحث</string>
+  <string name="remove_from_history">هل تريد إزاله هذا العنصر من سجل البحث؟</string>
+  <string name="remove_from_history_failed">تعذرت إزالة العنصر من السجل.</string>
+  <string name="corpus_selection_heading">بحث</string>
+  <string name="corpus_label_global">الكل</string>
+  <string name="corpus_label_web">الويب</string>
+  <string name="corpus_description_web">العلامات</string>
+  <string name="corpus_label_apps">التطيقات</string>
+  <string name="corpus_description_apps">التطبيقات المثبتة</string>
+  <string name="corpus_hint_apps">بحث التطبيقات</string>
+  <string name="menu_settings">إعدادات البحث</string>
+  <string name="search_settings">إعدادات البحث</string>
+  <string name="google_settings_category_title">بحث Google</string>
+  <string name="device_settings_category_title">مسح الإختصارات</string>
+  <string name="system_search_category_title">الهاتف</string>
+  <string name="search_sources">العناصر القابلة للبحث</string>
+  <string name="search_sources_summary">إختر عن ماذا سيتم البحث</string>
+  <string name="clear_shortcuts">مسح الإختصارات</string>
+  <string name="clear_shortcuts_summary">محو اختصارات اقتراحات البحث التي تم اختيارها حديثًا</string>
+  <string name="clear_shortcuts_prompt">هل تريد مسح الإختصارات للعناصر المختارة حديثاً؟</string>
+  <string name="clear_shortcuts_agree">مسح الإختصارات</string>
+  <string name="clear_shortcuts_disagree">لا تمسح الإختصارات</string>
+  <string name="menu_help">مساعدة</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_app_label">بحث Google</string>
+  <string name="google_search_hint">بحث Google</string>
+  <string name="google_search_description">إقتراحات بحث Google</string>
+  <string name="voice_search_hint_title">جرّب قول</string>
 </resources>

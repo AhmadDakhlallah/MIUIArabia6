@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
+        <item>أبيض</item>
+        <item>أصفر</item>
+        <item>رمادي</item>
+        <item>بني</item>
+        <item>أخضر</item>
+        <item>أزرق</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+        <item>الصفحة الإفتراضية</item>
+        <item>مخصص</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Previous page/Next page</item>
-        <item>Previous tab/Next tab</item>
+        <item>الصفحة السابقة\التالية</item>
+        <item>التبويب التالي\السابق</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
+        <item>الصفحة الأمام\الخلف</item>
+        <item>تبديل النوافذ</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
+        <item>صغير</item>
+        <item>متوسط</item>
+        <item>كبير</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>أبدا</item>
+        <item>فقط بإستخدام Wi-Fi</item>
+        <item>دوماً</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>صغير جدا</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>كبير جدا</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>أبدا</item>
+        <item>فقط بإستخدام Wi-Fi</item>
+        <item>دوماً</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>أبدا</item>
+        <item>فقط بإستخدام Wi-Fi</item>
+        <item>دوماً</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>أبدا</item>
+        <item>فقط بإستخدام Wi-Fi</item>
+        <item>دوماً</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">
-        <item>Larger</item>
-        <item>Large</item>
-        <item>Normal</item>
-        <item>Small</item>
+        <item>أكبر</item>
+        <item>كبير</item>
+        <item>عادي</item>
+        <item>صغير</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
-        <item>Ask me first</item>
-        <item>Off</item>
+        <item>مشغل دوماً</item>
+        <item>إسألني أولا</item>
+        <item>معطل</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>صغير جدا</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>كبير جدا</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>

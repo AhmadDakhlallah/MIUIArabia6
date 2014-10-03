@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Content Adaptive Backlight Settings</string>
-    <string name="cabl_settings_title">Content Adaptive Backlight Settings</string>
-    <string name="cabl_enable_title">Enable Content Adaptive Backlight</string>
-    <string name="cabl_enable_summary_on">The backlight will re-adjust based on the screen content</string>
-    <string name="cabl_enable_summary_off">The backlight will not readjust based on screen content</string>
-    <string name="cabl_levels_title">Visual Quality Level</string>
-    <string name="cabl_levels_summary">Lower quality level indicate CABL will try to save as much power as possible without significantly affecting content being displayed. Auto visual quality level means CABL will try to maximize power savings based on auto detecting type of content being displayed.</string>
-    <string name="cabl_level_default">Auto</string>
-    <string name="cabl_info_default">Unknown</string>
-    <string name="cabl_version_title">CABL Version</string>
+    <string name="app_name">إعدادات الإضائة الخلفية المتأقلمة مع المحتوى</string>
+    <string name="cabl_settings_title">إعدادات الإضائة الخلفية المتأقلمة مع المحتوى</string>
+    <string name="cabl_enable_title">تمكين الإضائة الخلفية المتأقلمة مع المحتوى</string>
+    <string name="cabl_enable_summary_on">سيتم ضبط مستوى إضائة الشاشة حسب المحتوى</string>
+    <string name="cabl_enable_summary_off">لن يتم ضبط مستوى إضائة الشاشة حسب المحتوى</string>
+    <string name="cabl_levels_title">مستوى جودة المحتوى</string>
+    <string name="cabl_levels_summary">الجودة الأقل تعني ان الإضائة الخلفية المتأقلمة مع المحتوى ستحاول تخفيض إستهلاك الطاقة قدر الإمكان من دون التأثير على الجودة بشكل كبير. الضبط التلقائي يعني ان الإضائة الخلفية المتأقلمة مع المحتوى ستقوم بالحفاط على أكبر قدر من الطاقة بشكل تلقائي حسب المحتوى المعروض على الشاشة.</string>
+    <string name="cabl_level_default">تلقائي</string>
+    <string name="cabl_info_default">غير معلوم</string>
+    <string name="cabl_version_title">نسخة CABL</string>
 </resources>

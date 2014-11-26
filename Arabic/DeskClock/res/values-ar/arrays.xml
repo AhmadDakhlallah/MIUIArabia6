@@ -23,10 +23,10 @@
         <item>مخصص</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>مره واحدة</item>
+        <item>يومياً</item>
+        <item>الإثنين الى الجمعة</item>
+        <item>مخصص</item>
     </string-array>
     <string-array name="alarm_set">
         <item>سيتم التنبيه خلال  أقل من دقيقة من الان.</item>

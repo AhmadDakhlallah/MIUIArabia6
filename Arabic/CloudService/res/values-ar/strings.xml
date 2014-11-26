@@ -8,9 +8,9 @@
     <string name="pref_title_sync_contacts_title">مزامنة جهات الاتصال</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
-    <string name="find_device_stop_noise">Tap OK to silence</string>
+    <string name="find_device_stop_noise">إضغط موافق للإصمات</string>
     <string name="find_device_noise_title">Locate device sound</string>
-    <string name="error_title">"Couldn't sync"</string>
+    <string name="error_title">تعذر التزامن</string>
     <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
     <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
     <string name="error_not_acceptable">تم تعطيل المزامنة.</string>
@@ -71,18 +71,18 @@ If you switch SIM cards, a new activation SMS must be sent ."</string>
     <string name="noRemind">لا تقم بتذكيري</string>
     <string name="restoreSync">المزامنة الان</string>
     <string name="enableAll">مزامنة الكل</string>
-    <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
-    <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
-    <string name="sub_alert_notif_dspt_add">"%s haven't been synced."</string>
-    <string name="sub_alert_notif_dspt_no">"Everything's up to date."</string>
+    <string name="master_alert_notif_dspt_add">لم تتم مزامنة %s</string>
+    <string name="master_alert_notif_dspt_no">كل شيئ في حالة محدثة</string>
+    <string name="sub_alert_notif_dspt_add">لم تتم مزامنة %s</string>
+    <string name="sub_alert_notif_dspt_no">كل شيئ في حالة محدثة</string>
     <string name="wipe_data_dialog_msg_separator">، </string>
     <string name="micloud_space_full_influence"><u>ماذا يخصل عند إنتهاء المساحة؟</u></string>
-    <string name="micloud_title_dspt" formatted="false">"Total space %s 
- used %s | remaining %s"</string>
+    <string name="micloud_title_dspt" formatted="false">"المساحة الكلية %s 
+ المستخدم %s | المتبقي %s"</string>
     <string name="micloud_title_dspt_remain">متبقي %s</string>
     <string name="micloud_title_full_dspt">إنتهت المساحة المخصصة لك!</string>
     <string name="micloud_user_space_usage">المساحة المستخدمة</string>
-    <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
+    <string name="micloud_web_discription_01">قم بتسجيل الدخول في i.mi.com</string>
     <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
     <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
     <string name="micloud_warn_low_title">Almost out of space…</string>
@@ -96,14 +96,14 @@ This way, if you lose or damage your device, your data will still be safe.
 When your cloud is full, your old data won't go anywhere. However, any new content you add (e.g. photos, video, notes, and apps) won't be backed up.
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
-    <string name="micloud_upgrade_space">Get more storage space</string>
+    <string name="micloud_upgrade_space">إحصل على المزيد من المساحة</string>
     <string name="enable_sync_dspt">المزامنة متوقفة</string>
     <string name="enable_sync">تفعيل</string>
     <string name="cloud_find_device">العثور على الجهاز</string>
     <string name="find_device_dspt">Lock or wipe this device remotely.</string>
     <string name="micloud_user_space_title">Storage space</string>
     <string name="sync_sub_dspt_provision">View and manage your data from anywhere</string>
-    <string name="btn_return">Back</string>
+    <string name="btn_return">الخلف</string>
     <string name="sync_sub_1_sms">An SMS will be sent to bind your SIM card with this account. You will incur regular charges from your carrier.</string>
     <string name="sync_sub_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur the corresponding charges from your carrier.</string>
     <string name="sync_sub_2_sms">SMS will be sent to bind your SIM cards with this account. You will incur regular charges from your carrier.</string>

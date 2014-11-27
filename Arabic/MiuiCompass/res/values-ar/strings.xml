@@ -2,17 +2,13 @@
 <resources>
     <string name="app_label">البوصلة</string>
     <string name="getting_location">...جاري المعايره</string>
-    <string name="location_north">شمال</string>
-    <string name="location_south">جنوب</string>
-    <string name="location_east">شرق</string>
-    <string name="location_west">غرب</string>
     <string name="menu_calibrate">معايره البوصلة</string>
     <string name="calibrate_success">تمت المعايره</string>
     <string name="calibrate_failed_no_location">"لا يمكن معايره البوصلة"</string>
-    <string name="calibrate_failed_timeout">"لا يمكن الإتصال بالخادم"</string>
+    <string name="calibrate_failed_timeout">تعذر الإتصال بالخادم</string>
     <string name="pressure_title">الضغط الجوي</string>
     <string name="altitude_title">الإرتفاع</string>
-    <string name="altitude_unit">متر</string>
+    <string name="altitude_unit">م</string>
     <string name="dialog_title_no_network">"لا يمكن الإتصال بالشبكة"</string>
     <string name="dialog_calibrat_altitude">...جاري المعايره</string>
     <string name="latitude">خط العرض</string>
